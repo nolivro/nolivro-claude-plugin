@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nolivro": {
+      "type": "http",
+      "url": "https://mcp.nolivro.com.br/mcp"
+    }
+  }
+}

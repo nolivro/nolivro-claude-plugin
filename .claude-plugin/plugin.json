@@ -1,0 +1,11 @@
+{
+  "name": "nolivro",
+  "displayName": "noLivro",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "Consulte empresas, contas e relatórios e execute rotinas contábeis do noLivro pela conversa com Claude.",
+  "author": {
+    "name": "noLivro",
+    "url": "https://nolivro.com.br"
+  }
+}
